@@ -19,6 +19,19 @@
   *  Click on Choose suggested plugins
   *  ![image](https://github.com/Cloud-Gen-DevOps-Projects/DevOps_Project-7/assets/25892488/f9cd0f2e-67be-443e-a87b-fa434bdd1c4e)
   * wait until install all plugins
+  * ![image](https://github.com/Cloud-Gen-DevOps-Projects/DevOps_Project-7/assets/25892488/dc71fb3e-8488-4a54-b112-fd187d97058e)
+  * Fill all fields
+  * ![image](https://github.com/Cloud-Gen-DevOps-Projects/DevOps_Project-7/assets/25892488/8743102c-5f7c-46ee-b1a5-0bd362cfe52e)
+  * ![image](https://github.com/Cloud-Gen-DevOps-Projects/DevOps_Project-7/assets/25892488/36bb8e1d-2c36-4eea-b68c-3a65b4ec3d57)
+  * ![image](https://github.com/Cloud-Gen-DevOps-Projects/DevOps_Project-7/assets/25892488/400cc1d4-73de-4263-97cd-341e6d17cae1)
+  * ![image](https://github.com/Cloud-Gen-DevOps-Projects/DevOps_Project-7/assets/25892488/b47b1253-48e7-4b0e-8842-45885c0a59fe)
+  * ![image](https://github.com/Cloud-Gen-DevOps-Projects/DevOps_Project-7/assets/25892488/35af51c0-c4a6-47b4-a82e-955b50a85a1f)
+  * 
+
+
+
+
+
   * 
 
   *  
